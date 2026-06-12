@@ -21,3 +21,9 @@ Digital prayer time clock built on ATmega328P featuring 7-Segment with HC595 dis
 ## Development Environment
 - Atmel Studio
 - SimulIDE
+
+## Simulation
+The project has been verified using SimulIDE.
+
+Simulation file:
+Simulation/JWS.sim1
